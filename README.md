@@ -1,4 +1,4 @@
-# Greeshma
+# Greeshma Gali
 
 BTech Computer Science (AI & ML) undergraduate with a strong foundation in frontend and backend web development, programming fundamentals, and problem-solving.
 Focused on building clean, scalable, and user-centric applications while continuously improving software engineering skills.
@@ -82,5 +82,5 @@ MBU AP | 3rd Year
 
 ## Profile
 
-* GitHub: Greeshmagali
+* GitHub: greeshmagali
 
