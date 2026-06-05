@@ -5,14 +5,14 @@ Focused on building clean, scalable, and user-centric applications while continu
 
 ---
 
-## 🎓 Education
+## Education
 
 **BTech – Computer Science (AI & Machine Learning)**
 MBU AP | 3rd Year
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -48,7 +48,7 @@ MBU AP | 3rd Year
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### Web Development Projects
 
@@ -63,7 +63,7 @@ MBU AP | 3rd Year
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Java Data Structures
 * Python Backend Development
@@ -71,7 +71,7 @@ MBU AP | 3rd Year
 
 ---
 
-## 🎯 Professional Goals
+## Professional Goals
 
 * Develop strong software engineering fundamentals
 * Build production-ready applications
@@ -80,7 +80,7 @@ MBU AP | 3rd Year
 
 ---
 
-## 🌐 Profile
+## Profile
 
 * GitHub: Greeshmagali
 
