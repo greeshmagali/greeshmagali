@@ -8,6 +8,7 @@ Focused on building clean, scalable, and user-centric applications while continu
 ## Education
 
 **BTech – Computer Science (AI & Machine Learning)**
+
 MBU AP | 3rd Year
 
 ---
