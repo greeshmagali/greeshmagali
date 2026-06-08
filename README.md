@@ -66,7 +66,7 @@ MBU AP | 3rd Year
 
 ## Currently Learning
 
-* Java Data Structures
+* python Data Structures
 * Python Backend Development
 * Fundamentals of Artificial Intelligence and Machine Learning
 
